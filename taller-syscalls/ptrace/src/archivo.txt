@@ -1,0 +1,1 @@
+[ Process PID=7180 runs in 32 bit mode. ]
